@@ -21,14 +21,14 @@ This package relies on [php-gd](http://php.net/manual/en/book.image.php) extensi
 Begin by installing this package through Composer. Just run following command to terminal-
 
 ```shell script
-composer require milon/barcode
+composer require snowsoft/barcode
 ```
 
 You can also edit your project's `composer.json` file to require `milon/barcode`.
 
 ```json
 "require": {
-    "milon/barcode": "^8.0"
+    "snowsoft/barcode": "^8.0"
 }
 ```
 
@@ -36,7 +36,7 @@ For Laravel 7.* use this-
 
 ```json
 "require": {
-    "milon/barcode": "^7.0"
+    "snowsoft/barcode": "^7.0"
 }
 ```
 
@@ -44,7 +44,7 @@ For Laravel 6.* use this-
 
 ```json
 "require": {
-    "milon/barcode": "^6.0"
+    "snowsoft/barcode": "^6.0"
 }
 ```
 
@@ -52,7 +52,7 @@ For Laravel 5.0 and 5.1 use this-
 
 ```json
 "require": {
-    "milon/barcode": "^5.1"
+    "snowsoft/barcode": "^5.1"
 }
 ```
 
@@ -60,7 +60,7 @@ For Laravel 4.0, 4.1 and 4.2 use this-
 
 ```json
 "require": {
-    "milon/barcode": "^4.2"
+    "snowsoft/barcode": "^4.2"
 }
 ```
 
