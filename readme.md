@@ -24,7 +24,7 @@ Begin by installing this package through Composer. Just run following command to
 composer require snowsoft/barcode
 ```
 
-You can also edit your project's `composer.json` file to require `milon/barcode`.
+You can also edit your project's `composer.json` file to require `snowsoft/barcode`.
 
 ```json
 "require": {
